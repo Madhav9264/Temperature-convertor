@@ -1,0 +1,16 @@
+body {
+  margin-top: 15%;
+  background-color: aquamarine;
+}
+.container {
+  background-color: aqua;
+}
+#input {
+  background-color: cadetblue;
+}
+#output {
+  background-color: darkcyan;
+}
+#convert {
+  background-color: deepskyblue;
+}
